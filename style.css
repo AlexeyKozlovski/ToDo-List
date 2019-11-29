@@ -1,0 +1,11 @@
+*{
+	position: relative;
+}
+.container{
+
+	left: 30%;	
+	width: 500px;
+	border: 2px dotted;
+    padding: 5px;
+}
+
